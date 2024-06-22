@@ -1,0 +1,2 @@
+# MagicalArena
+Coding Assessment
